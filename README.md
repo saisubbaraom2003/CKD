@@ -45,6 +45,9 @@ The dataset contains the following features:
     ```bash
     streamlit run app/app.py
     ```
+## 🌐 Live Demo
+
+You can view the live demo of the Kidney Disease Prediction Model [here](https://ckd-a17m.onrender.com).
 
 ## 📊 Model Evaluation
 
